@@ -10,7 +10,7 @@
     "axios": "^0.15.3",
     "capitalize": "^1.0.0",
     "google-maps-react": "^1.1.0",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "material-ui": "^0.19.4",
     "qs": "^6.3.0",
     "react": "^15.4.2",
